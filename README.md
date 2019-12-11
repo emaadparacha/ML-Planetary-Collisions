@@ -8,5 +8,4 @@ And the public preprint is available here: https://arxiv.org/abs/1902.04052
 
 The code is present in a Jupyter Notebook named "XGBoost and Nested Models - Planetary Collisions.ipynb" and the data in a csv file named "collisions.csv".
 
-Bonus presentation 
-<center><img src="University of Toronto Science Fair Poster.jpg" alt="University of Toronto Science Fair Poster"></center>
+Bonus presentation that I presentated at the 2018 Undergraduate Research Fair hosted by the Physics Department at the University of Toronto. Available as a pdf "UofT Undergraduate Research Fair Poster.pdf"
